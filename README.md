@@ -31,5 +31,5 @@ console.log("My name is Динар");
 
 
 ---
-https://streak-stats.demolab.com?user=dinbik&theme=radical
-[asda](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=dinbik&theme=radical)
+![asda](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
